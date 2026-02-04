@@ -12,18 +12,18 @@ Ao longo deste treinamento, configuramos uma infraestrutura completa de observab
 
 Nesta jornada, abordaremos os seguintes tópicos:
 
-- Aplicabilidade do curso  
+- Aplicabilidade do
 - Requisitos necessários  
 - Os quatro sinais de ouro (*Golden Signals*)  
 - Metodologias RED e USE  
-- Cenário prático do curso  
+- Cenário prático  
 - Benefícios de realizar este treinamento  
 
 ---
 
 ## 🎯 Aplicabilidade
 
-Este curso é destinado a:
+ Destinado a:
 
 - Pessoas desenvolvedoras  
 - Pessoas de operação de infraestrutura  
@@ -80,7 +80,7 @@ Para facilitar o monitoramento desses sinais, utilizamos metodologias consolidad
 Este método não é o foco principal do treinamento, pois seu escopo é bastante amplo e demandaria um curso específico.
 
 ### Método RED
-O método RED é o foco deste curso e aborda:
+O método RED é o foco e aborda:
 
 - **Rate** (taxa de requisições)  
 - **Errors** (erros gerados)  
@@ -92,9 +92,9 @@ Alguns conceitos do método USE também são abordados como complemento ao RED.
 
 ---
 
-## 🧪 Cenário do curso
+## 🧪 Cenário 
 
-O cenário do curso é composto por:
+O cenário do é composto por:
 
 - Um cliente sintético (container com script que consome a API de forma não previsível)  
 - Um proxy reverso  
@@ -108,7 +108,7 @@ Além disso:
 - O Prometheus já está configurado  
 - As métricas já estão sendo coletadas  
 
-### O que será implementado neste curso
+### O que será implementado 
 - Configuração do **Grafana**
 - Criação de dashboards completos
 - Subida e configuração do **Alert Manager**
@@ -135,8 +135,6 @@ Também serão abordados conceitos importantes como:
 - **SLO (Service Level Objective)**  
 - **SLI (Service Level Indicators)**  
 - **Error Budget** (Orçamento de Erro)  
-
-Além disso, o curso explora:
 - Baseline comportamental baseada em séries temporais  
 - Ações reativas (alertas e automações)  
 - Ações proativas (escalabilidade preditiva)  
