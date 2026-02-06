@@ -43,7 +43,7 @@ Nesta jornada, abordaremos os seguintes tópicos:
 - Compreensão dos tipos de métricas e sua composição  
 
 ### Outros pré-requisitos
-- Docker instalado  
+- Docker instalado  (docker compose up -d)
 - Docker Compose instalado  
 
 ---
